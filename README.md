@@ -18,3 +18,10 @@ comparação de modelos de linguagem (LLMs).
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
+
+Criar um arquivo .env com as variáveis de ambiente necessárias para o funcionamento do projeto (na raiz do projeto).
+```
+OPENAI_API_KEY=sk-...
+```
+
