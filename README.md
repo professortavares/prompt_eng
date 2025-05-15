@@ -10,6 +10,7 @@ comparação de modelos de linguagem (LLMs).
 * Language Models are Few-Shot Learners - https://arxiv.org/abs/2005.14165 
 * Prompt Programming for Large Language Models: How to Design Tasks and Select Data - https://arxiv.org/abs/2102.07350
 * Chain-of-Thought Prompting Elicits Reasoning in Large Language Models - https://arxiv.org/abs/2201.11903
+* Automatic Chain of Thought Prompting in Large Language Models - https://arxiv.org/abs/2210.03493
 
 ## Instalação
 
